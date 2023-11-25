@@ -9,23 +9,33 @@
 
 <url>
   <loc>https://daniellmcguire.github.io/</loc>
-  <lastmod>2023-11-24T21:39:00+00:00</lastmod>
+  <lastmod>2023-11-24T23:54:25+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://daniellmcguire.github.io/Home.html</loc>
-  <lastmod>2023-11-24T21:39:00+00:00</lastmod>
+  <lastmod>2023-11-24T23:54:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://daniellmcguire.github.io/Simple-Browser/</loc>
-  <lastmod>2023-11-24T17:57:46+00:00</lastmod>
+  <lastmod>2023-11-25T17:07:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://daniellmcguire.github.io/Simple-Browser/License</loc>
-  <lastmod>2023-11-24T17:57:43+00:00</lastmod>
+  <loc>https://daniellmcguire.github.io/Simple-Browser/Simple-Browser.html</loc>
+  <lastmod>2023-11-25T17:07:36+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniellmcguire.github.io/Simple-Browser/Readme</loc>
+  <lastmod>2023-11-25T17:07:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://daniellmcguire.github.io/Simple-Browser/License</loc>
+  <lastmod>2023-11-25T17:07:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
